@@ -1,0 +1,33 @@
+body{
+    background-color: #d7d2dd;  
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: #9400D3;
+}
+
+table{
+    margin: auto;
+    border: solid #9400D3;
+}
+
+thead{
+    text-align: center;
+    background-color: #d082e4;
+}
+
+td{
+    border-bottom: 1px solid #9400D3;
+}
+
+.left{
+    background-color: whitesmoke;
+    font-family: 'Space Mono', monospace;
+    font-size: 12px;
+    padding-right: 1rem;
+}
